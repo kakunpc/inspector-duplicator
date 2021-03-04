@@ -16,7 +16,13 @@ inspector-duplicatorはInspectorビューをショートカットキー(Ctrl + L
 
 ## Install
 
-[releases](https://github.com/tomori-hikage/inspector-duplicator/releases)からinspector-duplicator.unitypackageをダウンロードしてプロジェクトにインポートしてください
+```
+"dependencies": {
+    "com.kakunpc.inspector-duplicator": "https://github.com/kakunpc/inspector-duplicator.git?path=inspector-duplicator/Packages/InspectorDuplicator"
+}
+```
+
+
 
 ## Reference
 
