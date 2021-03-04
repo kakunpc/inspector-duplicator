@@ -18,7 +18,7 @@ inspector-duplicatorはInspectorビューをショートカットキー(Ctrl + L
 
 ```
 "dependencies": {
-    "com.kakunpc.inspector-duplicator": "https://github.com/kakunpc/inspector-duplicator.git?path=inspector-duplicator/Packages/InspectorDuplicator"
+    "com.kakunpc.inspector-duplicator": "https://github.com/kakunpc/inspector-duplicator.git"
 }
 ```
 
